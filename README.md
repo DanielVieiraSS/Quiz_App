@@ -1,16 +1,5 @@
 # quiz_app
 
-A new Flutter project.
+A small quiz made in Flutter to train the use of states.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![image](https://github.com/DanielVieiraSS/Quiz_App/assets/86128183/9bfbd80a-179f-4d0f-b6af-e4061da2930f)
